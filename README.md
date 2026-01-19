@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # SQL Retail Sales Analysis
 
 ## 📌 Descripción del proyecto
@@ -89,13 +83,16 @@ sql-retail-sales-analysis/
 -   Ingresos mensuales
 -   Identificación de estacionalidad
 
-3️⃣ Análisis de clientes - Clientes de alto valor - Gasto total por
-cliente - Segmentación por grupo etario
+3️⃣ Análisis de clientes 
+
+- Clientes de alto valor
+- Gasto total por cliente
+- Segmentación por grupo etario
 
 4️⃣ Insights avanzados
 
--   Ranking de categorías por ingresos
--   Categorías más rentables por centro comercial
+- Ranking de categorías por ingresos
+- Categorías más rentables por centro comercial
 
 ------------------------------------------------------------------------
 
