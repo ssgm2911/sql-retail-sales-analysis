@@ -43,18 +43,31 @@ en datos.
 ## 📁 Estructura del proyecto
 
 sql-retail-sales-analysis/ 
+
 │
+
 ├── data/ 
+
 │ └── retail_sales.csv 
+
 │ 
+
 ├── sql/
+
 │ ├── 01_create_table.sql 
+
 │ ├── 02_basic_queries.sql 
+
 │ └── 03_business_insights.sql 
+
 │ 
+
 ├── results/ 
+
 │ └── insights.md 
+
 │ 
+
 └── README.md
 
 ## 🔍 Análisis realizado
