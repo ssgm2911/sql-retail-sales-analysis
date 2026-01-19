@@ -10,8 +10,6 @@ desempeño por centro comercial.
 El análisis está orientado a la toma de decisiones comerciales basadas
 en datos.
 
-------------------------------------------------------------------------
-
 ## 🎯 Objetivos
 
 -   Analizar ingresos totales y ticket promedio
@@ -19,8 +17,6 @@ en datos.
 -   Evaluar el desempeño de centros comerciales
 -   Analizar patrones temporales de ventas
 -   Identificar clientes de alto valor
-
-------------------------------------------------------------------------
 
 ## 🗂️ Dataset
 
@@ -38,15 +34,11 @@ en datos.
     -   invoice_date
     -   shopping_mall
 
-------------------------------------------------------------------------
-
 ## 🛠️ Tecnologías utilizadas
 
 -   SQL (SQLite)
 -   DB Browser for SQLite
 -   Git & GitHub
-
-------------------------------------------------------------------------
 
 ## 📁 Estructura del proyecto
 
@@ -64,8 +56,6 @@ sql-retail-sales-analysis/
 │ └── insights.md 
 │ 
 └── README.md
-
-------------------------------------------------------------------------
 
 ## 🔍 Análisis realizado
 
@@ -94,8 +84,6 @@ sql-retail-sales-analysis/
 - Ranking de categorías por ingresos
 - Categorías más rentables por centro comercial
 
-------------------------------------------------------------------------
-
 ## 📊 Principales insights
 
 -   Un pequeño grupo de categorías concentra la mayor parte de los
@@ -108,8 +96,6 @@ sql-retail-sales-analysis/
 
 Los insights detallados se encuentran en: 📄 results/insights.md
 
-------------------------------------------------------------------------
-
 ## 💡 Impacto en negocio
 
 Este análisis permite:
@@ -119,15 +105,11 @@ Este análisis permite:
 -   Mejorar la planificación comercial
 -   Identificar clientes estratégicos para programas de fidelización
 
-------------------------------------------------------------------------
-
 ## 🚀 Próximos pasos
 
 -   Integrar visualizaciones (Power BI / Tableau)
 -   Ampliar análisis con cohortes de clientes
 -   Conectar con modelos predictivos (ML)
-
-------------------------------------------------------------------------
 
 ## 👤 Autor
 
